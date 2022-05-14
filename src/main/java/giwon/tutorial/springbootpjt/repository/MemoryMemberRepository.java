@@ -1,6 +1,7 @@
 package giwon.tutorial.springbootpjt.repository;
 
 import giwon.tutorial.springbootpjt.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 

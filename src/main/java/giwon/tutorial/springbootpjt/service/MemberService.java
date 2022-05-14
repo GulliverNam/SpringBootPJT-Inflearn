@@ -2,6 +2,8 @@ package giwon.tutorial.springbootpjt.service;
 
 import giwon.tutorial.springbootpjt.domain.Member;
 import giwon.tutorial.springbootpjt.repository.MemoryMemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
